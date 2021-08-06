@@ -1,0 +1,7 @@
+nome = input('nome: ')
+print(nome.upper())
+print(nome.lower())
+nomeedit = nome.replace(' ', '')
+print(len(nomeedit))
+nome2 = nome.split()
+print(len(nome2[0]))

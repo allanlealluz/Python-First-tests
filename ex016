@@ -1,0 +1,11 @@
+import math
+n1 = float(input('manda um numero decimal: '))
+n1trunc = math.trunc(n1)
+print('tá ai a parte inteira de {} é {} '.format(n1,n1trunc))
+
+
+
+
+
+
+
