@@ -1,0 +1,16 @@
+num = [2,5,9,1]
+num[2] = 3
+num.append(6)
+print(num)
+num.sort()
+print(num)
+num.sort(reverse=True)
+print(num)
+num.insert(3,4)
+print(num)
+num.pop(1)
+print(num)
+num.insert(3,2)
+num.remove(2)
+print(num)
+print(num + num)
